@@ -194,7 +194,7 @@ Card dicts
 ..code-block:: python
 
     mastodon.status_card(<numerical id>):
-    # Returns the folowing dictionary
+    # Returns the following dictionary:
     {
         'url': The URL of the card.
         'title': The title of the card.
